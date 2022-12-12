@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://404-not-found-anushka-verma.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/theanushka-v18/404-Not-Found">
       Solution
     </a>
     <span> | </span>
@@ -41,7 +41,7 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-    -> In the provided link.
+    -> In the provided demo link.
 - What was your experience?
     -> it's very good.
 - What have you learned/improved?
